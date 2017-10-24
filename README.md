@@ -15,6 +15,7 @@ adb devices<br>
 启动：appium -a 127.0.0.1 -p 4723 -U deviceName <br>
 
 UIAutomatorViewer 在Android  tools目录下<br>
+测试用例:<br>
 
 ```
 public class LoginTest extends BaseCase {
